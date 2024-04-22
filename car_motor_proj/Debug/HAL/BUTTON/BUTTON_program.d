@@ -1,0 +1,9 @@
+HAL/BUTTON/BUTTON_program.d HAL/BUTTON/BUTTON_program.o: \
+ ../HAL/BUTTON/BUTTON_program.c ../LIB/STD_TYPES.h \
+ ../MCAL/DIO/DIO_INTERFACE.h ../HAL/BUTTON/BUTTON_interface.h
+
+../LIB/STD_TYPES.h:
+
+../MCAL/DIO/DIO_INTERFACE.h:
+
+../HAL/BUTTON/BUTTON_interface.h:
